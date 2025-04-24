@@ -5,6 +5,9 @@ Data Analysis is used to get the insights about the buisness. This helps us to u
 
 ## Techniques
 
+![image](https://github.com/user-attachments/assets/495bc5f8-8883-4ed4-8c48-02ce60147738)
+
+
 ### 1. Change Over Time Analysis
 This is a technique where we find out the trends in the buisness growing with time. for e.g sales by year
 We use the formuale [**Measure**] By [**Date Dimension**]
