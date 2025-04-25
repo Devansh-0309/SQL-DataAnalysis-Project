@@ -83,6 +83,10 @@ Data catalog is the short description of the data which is used to increase the 
 | order_date | DATE | Contains the order date in 'YYYY-MM-DD' format|
 | ship_date | DATE | Contains the shipping date in 'YYYY-MM-DD' format|
 | due_date | DATE | Contains the due date in 'YYYY-MM-DD' format|
+
+## Reporting
+![image](https://github.com/user-attachments/assets/1bddaf9c-534c-4ad5-9978-c0b9fe123ffa)
+
 ## License
 This project has a MIT license that means it is free to use, modify and transfer as per the requirnment.
 
